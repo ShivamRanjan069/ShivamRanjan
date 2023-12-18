@@ -1,0 +1,47 @@
+[
+    {
+      "title": "PIZZA",
+      "imageSrc": "projects/project1.png",
+      "description": "Create a user-friendly pizza restaurant website for seamless orders and enticing menus.",
+      "skills": ["HTML", "CSS",  "JAVASCRIPT"],
+      "demo": "https://shivamranjan069.github.io/Pizza/",
+      "source": "https://github.com/ShivamRanjan069/Pizza"
+    },
+    {
+      "title": "ECO STRIVE",
+      "imageSrc": "projects/project.png",
+      "description": "Crafting an eco-friendly product store's website promoting sustainable goods, fostering a greener lifestyle.",
+      "skills": [ "HTML","CSS",  "JAVASCRIPT","GSAP"],
+      "demo": "https://shivamranjan069.github.io/EcoStrive/",
+      "source": "https://github.com/ShivamRanjan069/EcoStrive"
+    },
+    {
+      "title": "FLEXIFY",
+      "imageSrc": "projects/project2.png",
+      "description": "Create a website showcasing gym services, schedules, trainers, and membership options for fitness enthusiasts.",
+      "skills": ["HTML","CSS",  "JAVASCRIPT"],
+      "demo": "https://shivamranjan069.github.io/Flexify/",
+      "source": "https://github.com/ShivamRanjan069/Flexify"
+    },
+    {
+      "title": "LAZIZ FOOD",
+      "imageSrc": "projects/project3.png",
+      "description": "A dynamic, visually appealing website showcasing our restaurant's menu, ambiance, and services.",
+      "skills": ["REACT ","TAILWIND",  "NODE JS"],
+      "demo": "https://shivamranjan069.github.io/Laziz/",
+      "source": "https://github.com/ShivamRanjan069/Laziz"
+    },
+    {
+      "title": "UI UX HOME PAGE",
+      "imageSrc": "projects/project4.png",
+      "description": "Design a Simple Footware Website Home Page Using Figma for Skilling Myself .",
+      "skills": ["FIGMA ","PHOTOSHOP" ]
+    },
+    {
+      "title": "CHIPS POKECT",
+      "imageSrc": "projects/project5.png",
+      "description": "Create A Chips Pocket For a Client Using Photoshop",
+      "skills": ["PHOTOSHOP" ]
+    }
+  ]
+  
